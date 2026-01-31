@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# Datasets & Large files (Very important!)
+test_img.jpg
+*.zip
+*.tar.gz
+tensorflow_datasets/
+
+# Colab/Jupyter temporary files
+.ipynb_checkpoints/
+.config/
+sample_data/
+*.pdf
