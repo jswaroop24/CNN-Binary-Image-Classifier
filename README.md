@@ -47,7 +47,7 @@ This project uses a **deep learning-based CNN architecture** implemented using *
 ## 📊 Results
 - Model performance is evaluated using accuracy and loss curves
 - Training and validation metrics are visualized
-- The model demonstrates effective learning for binary classification
+- Training Accuracy at `96%` while Validation Accuracy at `80%`
 
 ---
 
@@ -62,19 +62,21 @@ This project uses a **deep learning-based CNN architecture** implemented using *
 
 ## ▶️ How to Run the Project
 
-1. Clone the repository:
+1.  **Clone the repository:**
 ```bash
 git clone https://github.com/USERNAME/cnn-binary-image-classifier.git
+cd CNN-Binary-Image-Classifier
+```
 
-2. Install dependencies:
+2.  **Install dependencies:**
 ```bash
 pip install -r requirements.txt
+```
 
 3. Open the notebook:
 ```bash
 jupyter notebook main.ipynb
-
-4. Run all cells sequentially
+```
 
 ---
 
