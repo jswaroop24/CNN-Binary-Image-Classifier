@@ -80,6 +80,13 @@ jupyter notebook main.ipynb
 
 ---
 
+## ✅ Notes
+
+- Recommended Python version: 3.8 – 3.11
+- GPU support is optional but recommended for faster training
+
+---
+
 ## 📌 Future Improvements
 
 - Hyperparameter tuning
